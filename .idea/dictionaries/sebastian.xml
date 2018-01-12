@@ -3,6 +3,8 @@
     <words>
       <w>dumpable</w>
       <w>metafactory</w>
+      <w>multithread</w>
+      <w>prestart</w>
       <w>setable</w>
       <w>threadsafe</w>
     </words>
