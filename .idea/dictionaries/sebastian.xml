@@ -8,6 +8,7 @@
       <w>multithread</w>
       <w>prestart</w>
       <w>setable</w>
+      <w>signalable</w>
       <w>threadsafe</w>
     </words>
   </dictionary>
