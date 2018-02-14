@@ -5,6 +5,7 @@
       <w>dumpable</w>
       <w>freeable</w>
       <w>fullscreen</w>
+      <w>glfw</w>
       <w>metafactory</w>
       <w>multithread</w>
       <w>prestart</w>
