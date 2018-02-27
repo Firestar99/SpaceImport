@@ -2,6 +2,7 @@
   <dictionary name="sebastian">
     <words>
       <w>borderless</w>
+      <w>calloc</w>
       <w>dumpable</w>
       <w>freeable</w>
       <w>fullscreen</w>
