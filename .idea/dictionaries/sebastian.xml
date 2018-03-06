@@ -3,12 +3,14 @@
     <words>
       <w>borderless</w>
       <w>calloc</w>
+      <w>compat</w>
       <w>dumpable</w>
       <w>freeable</w>
       <w>fullscreen</w>
       <w>glfw</w>
       <w>metafactory</w>
       <w>multithread</w>
+      <w>posx</w>
       <w>prestart</w>
       <w>setable</w>
       <w>signalable</w>
