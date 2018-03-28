@@ -8,7 +8,7 @@
         <spacegame.version>18.2</spacegame.version>
 
         <java.version>1.9</java.version>
-        <lwjgl.version>3.1.4</lwjgl.version>
+        <lwjgl.version>3.1.6</lwjgl.version>
     </properties>
 
     <groupId>firestar99</groupId>
