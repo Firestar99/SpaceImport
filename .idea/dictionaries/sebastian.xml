@@ -16,6 +16,7 @@
       <w>signalable</w>
       <w>spliterator</w>
       <w>threadsafe</w>
+      <w>threadsafety</w>
       <w>tshtype</w>
     </words>
   </dictionary>
