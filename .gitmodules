@@ -1,0 +1,9 @@
+[submodule "SpaceUtil"]
+	path = SpaceUtil
+	url = https://github.com/Firestar99/SpaceUtil.git
+[submodule "SpaceGame"]
+	path = SpaceGame
+	url = https://github.com/Firestar99/SpaceGame.git
+[submodule "SpaceEngine"]
+	path = SpaceEngine
+	url = https://github.com/Firestar99/SpaceEngine.git
